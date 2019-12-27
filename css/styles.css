@@ -1,0 +1,17 @@
+.icono{
+    width: 25px;
+    height: 25px;
+}
+
+.fondopantalla{
+    background-image: url("../img/fondo.jpg");
+}
+
+.colorletra{
+    font-weight: bold;
+    color: rgb(32, 32, 116);
+}
+
+#dropdown-item{
+    padding-left: 50px;
+}
